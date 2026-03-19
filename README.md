@@ -20,10 +20,11 @@ A simple and interactive Simon Says game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Screenshot
-![Game Screenshot](Screenshot.png)
+Here’s a preview of the game:
+![Game Screenshot](screenshot.png)
 
 ## 🌐 Live Demo
-Coming Soon...
+👉 [Play the Game](https://ankkitsingh.github.io/simon-says-game/)
 
 ---
 
